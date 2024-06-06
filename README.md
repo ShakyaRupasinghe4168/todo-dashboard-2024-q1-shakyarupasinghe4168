@@ -18,7 +18,7 @@ This project is a ToDo Dashboard application that helps manage and track your ta
 You can get the project by downloading the zip file or cloning the repository using Git.
 
 1. **Option 1: Download and Unzip**
-   - Download the ZIP file from the repository link or release page.
+   - Download the ZIP file from the repository link 
    - Unzip the downloaded file.
    
 2. **Option 2: Clone the Repository**
