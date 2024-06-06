@@ -1,19 +1,8 @@
-Certainly! Here is the revised README content formatted as per your instructions:
-
----
-
 ## ToDo Dashboard
 
-### Overview
-
-This project is a ToDo Dashboard application that helps manage and track your tasks effectively. This README provides instructions on how to set up and run the project locally.
-
 ### Prerequisites
-
 - [Git]
 - [Node.js and npm]
-
-### Getting Started
 
 You can get the project by downloading the zip file or cloning the repository using Git.
 
