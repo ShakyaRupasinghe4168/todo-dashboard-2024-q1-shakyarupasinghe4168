@@ -1,4 +1,3 @@
-Sure! Here is the revised README file content with the additional instructions for running `npm install` and `npm start`.
 
 ---
 
