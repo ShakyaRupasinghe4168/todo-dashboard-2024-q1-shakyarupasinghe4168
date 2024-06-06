@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.app {
+  display: flex;
+  background-color: #FAFAFA;
+}
+
+.left-column {
+  width: 100%;
+  max-width: 272px;
+  height: 100vh;
+}
+
+.right-column {
+  flex: 1;
+  width: calc(100% - 272px);
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.column {
+  padding: 5px;
+}

@@ -1,0 +1,28 @@
+.priority-chart-container {
+  border: 1px solid #D0D5DD;
+  border-radius: 8px; 
+  background-color: white;
+  width: 100%; 
+  max-width: 440px; 
+  margin: 0 auto; 
+  height: 290px; 
+  padding: 16px;
+  box-sizing: border-box; 
+  margin-top: 12px;
+}
+
+.header {
+  font-size: 16px;
+  font-weight: 500;
+  padding: 8px 12px;
+}
+
+.priority-chart-header {
+  height: 30px;
+  border-bottom: 1px solid #E4E7EC;
+}
+
+canvas {
+  display: block;
+  margin: 0 auto;
+}

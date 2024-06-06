@@ -1,0 +1,56 @@
+.dashboard {
+    background-color: 
+    #33074F;
+    display: flex;
+    flex-direction: column;
+    height: 900px;
+    width: 272px;
+    padding: 0;
+  }
+  .dashboard-image {
+    display: inline;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-right: 5px; 
+  }
+  .top-row {
+   
+    height: 
+    80px; 
+  }
+  .fonts-header{
+    color: white;
+    margin-top: 24px;
+    margin-left: 49px;
+   
+Top:
+24px;
+font-weight: 600;
+font-size: 24px;
+
+  }
+  .bottom-row {
+    display: flex;
+  }
+  
+  .dashboard-button {
+    background-color: rgba(235, 230, 237, 0.1);
+    color: white;
+border: none;
+    width: 240px;
+    height: 40px;
+   margin-top: 60px;
+    border-radius: 24px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 400;
+    
+  }
+  
+  .dashboard-button:hover {
+    background-color: #8c5fa7; 
+  }
+  
